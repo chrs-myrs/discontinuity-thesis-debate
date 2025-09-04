@@ -1,0 +1,35 @@
+# Generated content
+generated/
+*.pdf
+*.aux
+*.log
+*.out
+
+# LaTeX intermediate files
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
+
+# Zone identifiers (Windows)
+*:Zone.Identifier
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local

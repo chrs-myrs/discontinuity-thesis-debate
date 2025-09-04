@@ -1,0 +1,82 @@
+[
+  {
+    "id": "C1",
+    "statement": "AI represents a discontinuity from all previous technological revolutions",
+    "type": "philosophical",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": false,
+    "notes": ""
+  },
+  {
+    "id": "C2",
+    "statement": "Mass unemployment is mechanically inevitable",
+    "type": "prediction",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": false,
+    "notes": ""
+  },
+  {
+    "id": "C3",
+    "statement": "AI automates cognition itself, not just tasks",
+    "type": "logical",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": false,
+    "notes": ""
+  },
+  {
+    "id": "C4",
+    "statement": "Only 5% of workers can effectively verify AI output",
+    "type": "empirical",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": true,
+    "notes": ""
+  },
+  {
+    "id": "C5",
+    "statement": "The verification divide creates permanent stratification",
+    "type": "prediction",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": false,
+    "notes": ""
+  },
+  {
+    "id": "C6",
+    "statement": "There is no exit strategy for displaced workers",
+    "type": "logical",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": false,
+    "notes": ""
+  },
+  {
+    "id": "C7",
+    "statement": "The Engine of Obsolescence operates mechanically",
+    "type": "logical",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": false,
+    "notes": ""
+  },
+  {
+    "id": "C8",
+    "statement": "Physical refuge is mathematically insufficient",
+    "type": "empirical",
+    "evidence_for": "Not evaluated",
+    "evidence_against": "Not evaluated",
+    "strength": "Not assessed",
+    "testable": true,
+    "notes": ""
+  }
+]

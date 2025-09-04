@@ -1,0 +1,108 @@
+{
+  "tests": [
+    {
+      "test_id": "T1",
+      "claim_id": "C4",
+      "claim_text": "Only 5% of workers can effectively verify AI output",
+      "hypothesis": "Less than or equal to 5% of workers can effectively verify AI output",
+      "null_hypothesis": "More than 5% of workers can effectively verify AI output",
+      "data_needed": [
+        "Studies on AI tool usage effectiveness",
+        "Surveys of AI verification capabilities",
+        "Training program success rates"
+      ],
+      "success_criteria": "Find studies showing actual percentage of effective AI users",
+      "data_points": [
+        {
+          "id": "DP001",
+          "source": "Example Study 2024",
+          "date": "2024-06-15",
+          "quality": "medium",
+          "summary": "Study shows 15% of office workers can effectively use AI tools for verification",
+          "url": "https://example.com/study",
+          "raw_data": {
+            "percentage": 15,
+            "sample_size": 1000
+          }
+        }
+      ],
+      "result": "inconclusive",
+      "confidence": 1.0,
+      "analysis": null
+    },
+    {
+      "test_id": "T2",
+      "claim_id": "A4",
+      "claim_text": "AI + verifier is 100x cheaper than human labor",
+      "hypothesis": "AI + verification costs < 1% of human labor costs",
+      "null_hypothesis": "AI + verification costs >= 1% of human labor costs",
+      "data_needed": [
+        "AI operational costs",
+        "Human verification time/costs",
+        "Error correction costs",
+        "Total cost comparisons"
+      ],
+      "success_criteria": "Calculate actual cost ratios with hidden costs included",
+      "data_points": [],
+      "result": null,
+      "confidence": null,
+      "analysis": null
+    },
+    {
+      "test_id": "T3",
+      "claim_id": "A3",
+      "claim_text": "No new job categories will emerge fast enough",
+      "hypothesis": "New AI-related jobs < displaced jobs in same period",
+      "null_hypothesis": "New AI-related jobs >= displaced jobs",
+      "data_needed": [
+        "New job category creation rates",
+        "AI displacement statistics",
+        "Timeline comparisons"
+      ],
+      "success_criteria": "Compare job creation vs destruction rates 2020-2024",
+      "data_points": [],
+      "result": null,
+      "confidence": null,
+      "analysis": null
+    },
+    {
+      "test_id": "T4",
+      "claim_id": "C8",
+      "claim_text": "Physical refuge is mathematically insufficient",
+      "hypothesis": "Physical job capacity < displaced cognitive workers",
+      "null_hypothesis": "Physical jobs can absorb significant displaced workers",
+      "data_needed": [
+        "Physical job growth rates",
+        "Cognitive worker displacement numbers",
+        "Retraining success rates"
+      ],
+      "success_criteria": "Calculate absorption capacity vs displacement volume",
+      "data_points": [],
+      "result": null,
+      "confidence": null,
+      "analysis": null
+    },
+    {
+      "test_id": "T5",
+      "claim_id": "A1",
+      "claim_text": "AI capabilities will continue improving exponentially",
+      "hypothesis": "AI performance metrics show exponential growth",
+      "null_hypothesis": "AI performance shows linear or plateauing growth",
+      "data_needed": [
+        "AI benchmark performance over time",
+        "Cost-performance curves",
+        "Capability frontier evolution"
+      ],
+      "success_criteria": "Identify trend in AI capability metrics 2020-2024",
+      "data_points": [],
+      "result": null,
+      "confidence": null,
+      "analysis": null
+    }
+  ],
+  "summary": {
+    "total_tests": 5,
+    "evaluated": 1,
+    "data_points": 1
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "claims": [
+    {
+      "id": "C1",
+      "statement": "AI represents a discontinuity from all previous technological revolutions",
+      "claim_type": "philosophical",
+      "source_essay": "the-original-discontinuity-thesis",
+      "assumptions": [
+        "A1",
+        "A3"
+      ],
+      "depends_on": [],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C2",
+      "statement": "Mass unemployment is mechanically inevitable",
+      "claim_type": "prediction",
+      "source_essay": "the-engine-of-obsolescence",
+      "assumptions": [
+        "A1",
+        "A4"
+      ],
+      "depends_on": [
+        "C1"
+      ],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C3",
+      "statement": "AI automates cognition itself, not just tasks",
+      "claim_type": "logical",
+      "source_essay": "the-original-discontinuity-thesis",
+      "assumptions": [
+        "A1"
+      ],
+      "depends_on": [],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C4",
+      "statement": "Only 5% of workers can effectively verify AI output",
+      "claim_type": "empirical",
+      "source_essay": "the-ai-verification-divide",
+      "assumptions": [
+        "A2"
+      ],
+      "depends_on": [],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C5",
+      "statement": "The verification divide creates permanent stratification",
+      "claim_type": "prediction",
+      "source_essay": "the-ai-verification-divide",
+      "assumptions": [
+        "A2"
+      ],
+      "depends_on": [
+        "C4"
+      ],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C6",
+      "statement": "There is no exit strategy for displaced workers",
+      "claim_type": "logical",
+      "source_essay": "the-original-discontinuity-thesis",
+      "assumptions": [
+        "A3",
+        "A5"
+      ],
+      "depends_on": [
+        "C1",
+        "C3"
+      ],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C7",
+      "statement": "The Engine of Obsolescence operates mechanically",
+      "claim_type": "logical",
+      "source_essay": "the-engine-of-obsolescence",
+      "assumptions": [
+        "A4"
+      ],
+      "depends_on": [],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    },
+    {
+      "id": "C8",
+      "statement": "Physical refuge is mathematically insufficient",
+      "claim_type": "empirical",
+      "source_essay": "the-original-discontinuity-thesis",
+      "assumptions": [
+        "A5"
+      ],
+      "depends_on": [],
+      "evidence_for": null,
+      "evidence_against": null,
+      "strength_assessment": null,
+      "notes": null
+    }
+  ],
+  "assumptions": [
+    {
+      "id": "A1",
+      "description": "AI capabilities will continue improving exponentially",
+      "is_explicit": false,
+      "is_testable": true,
+      "criticality": "high",
+      "dependent_claims": [
+        "C1",
+        "C2",
+        "C3"
+      ]
+    },
+    {
+      "id": "A2",
+      "description": "Verification requires rare, unteachable skills",
+      "is_explicit": true,
+      "is_testable": true,
+      "criticality": "high",
+      "dependent_claims": [
+        "C4",
+        "C5"
+      ]
+    },
+    {
+      "id": "A3",
+      "description": "No new job categories will emerge fast enough",
+      "is_explicit": true,
+      "is_testable": true,
+      "criticality": "high",
+      "dependent_claims": [
+        "C1",
+        "C6"
+      ]
+    },
+    {
+      "id": "A4",
+      "description": "AI + verifier is 100x cheaper than human labor",
+      "is_explicit": true,
+      "is_testable": true,
+      "criticality": "high",
+      "dependent_claims": [
+        "C2",
+        "C7"
+      ]
+    },
+    {
+      "id": "A5",
+      "description": "Physical jobs cannot absorb cognitive workers",
+      "is_explicit": true,
+      "is_testable": true,
+      "criticality": "medium",
+      "dependent_claims": [
+        "C6",
+        "C8"
+      ]
+    }
+  ],
+  "statistics": {
+    "total_claims": 8,
+    "total_assumptions": 5,
+    "testable_claims": 2,
+    "critical_assumptions": 4
+  }
+}
