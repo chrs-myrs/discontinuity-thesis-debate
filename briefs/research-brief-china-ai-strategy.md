@@ -3,6 +3,25 @@
 
 ---
 
+## Context for External Researcher
+
+**Background**: The Discontinuity Thesis claims AI-driven unemployment is "mechanically inevitable" due to market forces. China presents the ultimate test case - a major economy with state control over AI deployment, employment mandates for state-owned enterprises (SOEs), and ability to override market mechanisms. If China can't prevent the discontinuity, it suggests Ben Luong's mechanical inevitability is correct. If China succeeds, it proves political choice matters more than economics.
+
+**The Stakes**: China employs 750+ million workers. Youth unemployment already exceeds 20% (by some estimates). The government's legitimacy depends on employment stability. Their approach combines AI advancement for competitiveness with employment protection for stability - but these goals may be fundamentally incompatible.
+
+**Key Tensions**:
+- Can central planning override Unit Cost Dominance?
+- Will employment protection destroy export competitiveness?
+- Is China creating a sustainable alternative or just delaying collapse?
+
+**Decision Impact**: Results determine whether:
+- Western democracies should consider China-style controls
+- The discontinuity is truly universal or capitalism-specific
+- Political intervention can meaningfully affect AI disruption
+- Timeline is fixed (2027-2029) or politically variable
+
+---
+
 ## Research Objective
 
 Determine whether China's state-controlled approach to AI deployment can prevent or significantly delay the employment discontinuity predicted by Ben Luong.

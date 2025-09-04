@@ -3,6 +3,25 @@
 
 ---
 
+## Context for External Researcher
+
+**Background**: The Discontinuity Thesis predicts economic collapse from AI automation. A critical mechanism is "zero-employee companies" - businesses run by one person with AI achieving massive scale. Ben Luong predicts 1-2 will reach $1B valuation by December 2025. Chris Myers (CTO) claims he already achieves 100x productivity with AI and will "never hire another developer."
+
+**Why This Matters**: If solo operators can build billion-dollar businesses, it validates the thesis that AI makes human workers economically obsolete. The competitive pressure would force all companies toward zero employees, creating mass unemployment. However, if such companies plateau at lower valuations or require hidden human labor, it suggests natural limits to AI displacement.
+
+**Key Questions**:
+- Is Chris Myers an outlier or leading indicator?
+- Can zero-employee scale beyond digital products?
+- Do these companies create or destroy net employment?
+
+**Decision Impact**: Results determine whether:
+- Mass retraining for "solo entrepreneurship" is viable
+- Traditional employment will persist in modified form
+- Regulatory intervention is needed to preserve jobs
+- The timeline for economic disruption (2025 vs 2030+)
+
+---
+
 ## Research Objective
 
 Verify Ben Luong's prediction of 1-2 billion-dollar zero-employee companies by December 2025 and assess the broader implications for employment.

@@ -3,6 +3,24 @@
 
 ---
 
+## Context for External Researcher
+
+**Background**: The "Discontinuity Thesis" argues that AI will cause economic collapse through "Unit Cost Dominance" - AI producing cognitive work at 50-100x lower cost than humans, leading to mass unemployment by 2027-2029. This research evaluates a key counter-argument: that consumers will pay premiums for human-made products/services, creating sustainable employment niches.
+
+**Debate Stakes**: Ben Luong (thesis author) claims premium markets are "elite consumption" supporting <5% of workers. Critics argue premiums could sustain 10-20% employment through luxury, artisanal, and trust-based markets. The question is whether premiums can scale to millions of jobs, not just thousands.
+
+**Key Tensions**: 
+- Will Gen Z/Alpha maintain human preferences as AI quality improves?
+- Can premiums survive economic downturns when consumers prioritize cost?
+- Do premiums create real employment or just inequality?
+
+**Decision Impact**: Results will inform whether policymakers should:
+- Invest in protecting/promoting human-made markets
+- Focus on alternative solutions (UBI, job guarantees)
+- Accept premium markets as partial but insufficient solution
+
+---
+
 ## Research Objective
 
 Determine whether premium pricing for human-made products and services can create sustainable employment at scale in an AI-dominated economy.
