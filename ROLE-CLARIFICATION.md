@@ -9,11 +9,12 @@
 - **Provides**: Responses and clarifications on thesis
 
 ### Chris Myers  
-- **Role**: CTO of The Money Platform
-- **Position**: Debate architect and practitioner perspective
-- **Experience**: Implementing AI automation in production
-- **Provides**: Real-world validation and challenges to thesis
-- **Note**: NOT the thesis author, but brings critical implementation experience
+- **Role**: CTO of The Money Platform & Debate Architect
+- **Position**: AI-native businesses with zero employees will disrupt all industries
+- **Key Insight**: The mechanism is NEW companies with one person/bot replacing entire industries
+- **NOT**: Existing companies gradually automating workers
+- **BUT**: One-person unicorns and bot-owned businesses with zero human costs
+- **Evidence**: Already seeing solo developers + AI replacing entire teams/companies
 
 ## Expert Panel (AI Agents)
 

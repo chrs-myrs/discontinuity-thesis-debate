@@ -75,15 +75,7 @@
 
 ### From Chris Myers (CTO/Practitioner)
 
-1. **Implementation Reality**: I see 100x productivity gains but also massive implementation complexity. Your thesis implies smooth automation - how do you account for the messy reality of legacy systems, technical debt, and integration challenges?
-
-2. **Recursive Limits**: I use AI to build AI daily and hit clear ceilings around 70-80% automation. The remaining 20-30% requires human judgment. Doesn't this create permanent human roles?
-
-3. **Business Reality**: Every automation creates new complexity requiring management. I automate one thing and discover three new problems. How does your model account for complexity generation?
-
-4. **Quality Gradients**: In production, we accept 90% accuracy for some tasks but require 99.99% for others. Doesn't this create natural automation boundaries based on consequence severity?
-
-5. **Coordination Observation**: My industry essentially coordinates to not fully automate (maintaining human sales, support, management). Isn't this evidence that implicit coordination already works?
+*[Chris will provide his own questions based on his perspective about AI-native, zero-employee businesses disrupting entire industries through one-person or bot-owned companies]*
 
 ---
 
