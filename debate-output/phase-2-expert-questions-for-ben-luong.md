@@ -1,9 +1,11 @@
 # Phase 2: Expert Panel Questions for Ben Luong
 ## Author of the Discontinuity Thesis
 
+*Note: Ben has provided detailed falsification criteria at https://discontinuitythesis.com/proof/ which have been reviewed. These questions probe beyond those stated criteria into implementation details, edge cases, and apparent contradictions with empirical evidence.*
+
 ### From Dr. Marcus Chen (Discontinuity Advocate)
 
-1. **Falsification Criteria**: What specific evidence would convince you that Unit Cost Dominance won't lead to economic discontinuity? Can you provide concrete metrics (unemployment rate, timeline, adaptation success) that would falsify your thesis?
+1. **Verification Scaling**: Given your falsification criteria require persistent human advantage, how do you address that verification itself is being automated? GPT-4 can now verify GPT-3.5 output with higher accuracy than humans in many domains.
 
 2. **Verification Automation**: Given the 3,330:1 ratio between falling AI costs and rising verification costs (Report 2), what prevents verification itself from being automated first, eliminating the main cost constraint?
 
@@ -25,7 +27,7 @@
 
 4. **Hidden Costs**: Report 2 shows 73% of enterprises exceed AI budgets by 2.4x with 85% project failure rates. How does Unit Cost Dominance account for these hidden costs representing 70% of total investment?
 
-5. **Unfalsifiable Claims**: What would constitute evidence that markets ARE adapting successfully? Your thesis seems structured to interpret any response as validation.
+5. **Market Adaptation Definition**: Your falsification criteria disqualify UBI and redistribution. But if markets create new forms of value exchange (time banks, gift economies, commons management) that maintain human participation, why don't these count as successful adaptation?
 
 ---
 
@@ -111,7 +113,7 @@ Your thesis treats humans as passive economic units. But humans are also voters,
 
 4. **Specify Mechanisms**: Show the exact causal chain from UCD to each downstream effect, not just correlation.
 
-5. **Falsification Criteria**: What evidence would convince you the thesis is wrong? Without this, it's ideology, not analysis.
+5. **Implementation Timeline**: Your falsification criteria are clear, but what about timeline? If mass unemployment takes 10 years instead of 2, does that falsify the "discontinuity" aspect even if the end state matches your prediction?
 
 ---
 
