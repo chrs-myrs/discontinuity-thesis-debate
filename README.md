@@ -8,7 +8,20 @@ A structured expert panel debate examining the Discontinuity Thesis - the claim 
 discontinuity-thesis-debate/
 ├── README.md                           # This file
 ├── DEBATE-TRACKER.md                   # Current debate status and progress
+├── DEBATE-PROCEEDINGS.md               # Full debate record
 ├── debate-framework.md                 # Complete debate methodology
+│
+├── /expert-analyses/                   # All expert analysis records
+│   ├── README.md                       # Analysis structure guide
+│   ├── POSITION-TRACKER.md             # Position evolution tracking
+│   ├── ANALYSIS-TEMPLATE.md            # Standard analysis template
+│   ├── /dr-chen/                       # Dr. Chen's analyses by phase
+│   ├── /dr-martinez/                   # Dr. Martinez's analyses
+│   ├── /dr-patel/                       # Dr. Patel's analyses
+│   ├── /dr-thompson/                   # Dr. Thompson's analyses
+│   ├── /dr-vasquez/                    # Dr. Vasquez's analyses
+│   └── /chris-myers/                   # Author's analyses
+│       └── /phase-[1-6]/               # Analyses for each phase
 │
 ├── /data/                              # Source materials
 │   ├── discontinuity-thesis-latest.md  # Current thesis formulation
@@ -28,7 +41,6 @@ discontinuity-thesis-debate/
 ├── /debate-output/                     # Debate proceedings
 │   ├── phase-1-opening-positions.md    # Initial positions
 │   ├── chris-myers-opening-position.md # Practitioner perspective
-│   ├── dr-chen-phase-2-analysis.md     # Expert evidence review
 │   └── simulated-drafts/                # Draft scenarios (archived)
 │
 └── /analysis/                          # Analysis documents
